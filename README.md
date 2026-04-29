@@ -2,10 +2,10 @@
 Transitioning into DevOps / Cloud Engineering.
 
 ## Skills (in progress)
-Linux
-AWS
-Docker
-Networking
+- Linux
+- AWS
+- Docker
+- Networking
 
 ## Projects
 (coming soon)
