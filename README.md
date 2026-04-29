@@ -1,4 +1,4 @@
-# Hi-I-m-Ali-Can
+# Hi I'm Ali Can
 Transitioning into DevOps / Cloud Engineering.
 
 ## Skills (in progress)
